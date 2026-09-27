@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:64B5F6&height=250&section=header&text=Aditya%20Saini&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FRAG%20Systems%20%7C%20Python%20%26%20Dart&descAlignY=55&descColor=FFFFFF" width="100%"/>
 
 # Aditya Saini
 
